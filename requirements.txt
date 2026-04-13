@@ -1,0 +1,26 @@
+# Data manipulation
+pandas
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# API
+fastapi
+uvicorn
+
+# Dashboard
+streamlit
+
+# Experiment tracking
+mlflow
+
+# Data validation
+great-expectations
+
+# Testing
+pytest
+
+# Visualisation
+plotly

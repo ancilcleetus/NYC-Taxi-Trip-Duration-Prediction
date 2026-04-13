@@ -1,0 +1,43 @@
+# ── Project-specific ──────────────────────────────────────────
+data/
+models/
+
+# ── Environment & secrets ─────────────────────────────────────
+.env
+.env.*
+*.pem
+*.key
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# ── Jupyter ──────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Virtual environments ──────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── IDE ──────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── OS ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── MLflow ───────────────────────────────────────────────────
+mlruns/
+mlartifacts/
